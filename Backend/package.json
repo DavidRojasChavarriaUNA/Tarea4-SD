@@ -1,0 +1,21 @@
+{
+  "name": "tarea_04_sistemas_distribuidos_back_end",
+  "version": "1.0.0",
+  "description": "Tarea 4 - backend, sistemas distribuidos 2023 - UNA",
+  "author": "David Rojas Chavarria",
+  "license": "Unlicense",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "devDependencies": {
+    "express": "latest",
+    "nodemon": "latest"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express-session": "^1.17.3",
+    "mongodb": "latest"
+  }
+}

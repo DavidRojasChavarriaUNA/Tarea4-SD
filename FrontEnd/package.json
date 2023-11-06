@@ -1,0 +1,20 @@
+{
+  "name": "tarea_04_sistemas_sistribuidos_front_end_vue",
+  "version": "1.0.0",
+  "description": "Tarea 4 - Front end con Vue.js, sistemas distribuidos 2023 - UNA",
+  "author": "David Rojas Chavarria",
+  "license": "Unlicense",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "vue": "^3.2.33",
+    "vue-router": "4.0.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.5"
+  }
+}
