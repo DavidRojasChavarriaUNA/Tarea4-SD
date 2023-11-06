@@ -20,7 +20,7 @@ Repositorio \
 	carpeta Backend \
 	https://github.com/DavidRojasChavarriaUNA/Tarea4-SD/tree/main/Backend \
 	carpeta Frontend \
-	https://github.com/DavidRojasChavarriaUNA/Tarea4-SD/tree/main/Frontend \
+	https://github.com/DavidRojasChavarriaUNA/Tarea4-SD/tree/main/FrontEnd \
 
 En el proyecto Backend, ubicado en la carpeta "Backend" encontrará las indicaciones para levantar dicho proyecto
 

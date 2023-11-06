@@ -16,7 +16,7 @@ Ciclo II 2023
 Repositorio \
     https://github.com/DavidRojasChavarriaUNA/Tarea4-SD \
 	carpeta Frontend \
-	https://github.com/DavidRojasChavarriaUNA/Tarea4-SD/tree/main/Frontend
+	https://github.com/DavidRojasChavarriaUNA/Tarea4-SD/tree/main/FrontEnd
 
 Instrucciones
 1. Ubicarse dentro de la carpeta del frontend \
